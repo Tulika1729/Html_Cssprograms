@@ -1,0 +1,23 @@
+body{
+	color:green;
+	font-family: verdana,Arial,Geneva,Arial Black;
+	font-weight: normal;
+	
+}	
+h1,h2
+{
+	border-bottom:5px solid black;
+}
+.orange{
+	color:orange;
+	font-size: 25px;
+	
+}
+.underline{
+	text-decoration: underline
+}
+p.brown{
+	color:brown;
+	font-size: 25px;
+	
+}		
