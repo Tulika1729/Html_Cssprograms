@@ -60,7 +60,9 @@ p.para3{
 	border-width: thick;
 	border-bottom: 25px;
 	border-top-color: pink;
-	overflow: scroll; 
+	overflow: scroll;
+	cursor:crosshair;
+
 
 }
 .highlight{
@@ -97,4 +99,5 @@ a:visited
 }	
 a:hover{
 	color:#F15A51;
+	cursor: grab;
 }	
